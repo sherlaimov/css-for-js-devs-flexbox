@@ -14,6 +14,8 @@ const Logo = (props) => {
 const Link = styled.a`
   text-decoration: none;
   color: inherit;
+  display: flex;
+  width: 0px;
 `;
 
 const Wrapper = styled.h1`
